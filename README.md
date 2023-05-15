@@ -1,7 +1,23 @@
-# login_register_auth
+# Flutter Login Screen and Sign Up
 
-#firebase auth dependency used and firebase 
+## Project: Login and SignUp
 
-#works with Gmail only 
+### Database: ###
+* Firebase 
 
-#test@gmail.com ~ test123 - test data
+### Feature: ###
+* Firebase Authenticator 
+
+### Test Data: ###
+* email: test@gmail.com
+* password: test123
+
+~ N.B works only with gmail upon registering and login in 
+
+### Dependencies: ###
+* Firebase_core
+* flutter_launcher_icon
+
+### Tools: ###
+* Flutter SDK
+* Dart SDK
